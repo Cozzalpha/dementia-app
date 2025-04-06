@@ -1,15 +1,3 @@
-# FoundXNet - AI-Powered Startup Networking Platform
-
-FoundXNet is a full-stack platform that connects startup founders with investors using AI-powered matchmaking. The platform features real-time chat, funding insights, and collaboration tools to facilitate meaningful connections in the startup ecosystem.
-
-## Features
-
-- **AI-Powered Matchmaking**: Intelligent matching between founders and investors based on company data, industry, and funding stage
-- **Real-Time Chat**: WebSocket-based messaging system for seamless communication
-- **Company Profiles**: Detailed company information and funding history
-- **Investor Dashboard**: Advanced search and filtering for finding promising startups
-- **Collaboration Tools**: Project listings and joint venture opportunities
-- **Funding Insights**: Valuation tracking and funding history visualization
 
 ## Tech Stack
 
